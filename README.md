@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marxsushii
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Open Projects and Game Development
 - 📫 How to reach me : edmarques@id.uff.br
 

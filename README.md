@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @marxsushii
+- 👋 Hi, I’m Arthur Marques
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Javascript
 - 💞️ I’m looking to collaborate on Open Projects and Game Development
 - 📫 How to reach me : edmarques@id.uff.br
 
